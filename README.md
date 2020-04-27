@@ -11,3 +11,7 @@ Paper list:
 
 7. Towards a Practical, verified kernel
 8. SeL4: Formal verification of an OS kernel
+
+Reference:
+[1] https://alastairreid.github.io/RelatedWork/topics/verification/
+[2] https://alastairreid.github.io/RelatedWork/topics/rust/
